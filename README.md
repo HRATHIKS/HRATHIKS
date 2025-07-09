@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/1eb8bdcb-9e82-48b0-b71d-d4f6ff2b0927)
 
+Hi 👋, I'm Hrathik  Sheregar
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hrathik Sheregar) 
 
