@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/7462f173-6d4e-4326-ad9c-57aae462f721)
 
 <h1 style="font-size: 2.5rem; font-weight: bold;">
   Hi 👋, I'm Hrathik Sheregar
